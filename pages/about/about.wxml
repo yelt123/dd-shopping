@@ -1,0 +1,4 @@
+<!--pages/about/about.wxml-->
+<text class="font-red">about</text>
+<view>456</view>
+<button bindtap="show" style="width:100vw">link</button>

@@ -1,0 +1,6 @@
+/* pages/about/about.wxss */
+.font-red{
+  color: red;
+  height: 100vh;
+  display: block;
+}

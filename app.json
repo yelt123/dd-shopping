@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/about/about"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#FAC0D7",
+    "navigationBarTitleText": "朵朵商城",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "#FEEFF5"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "selectedColor": "#959718",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "朵朵",
+        "iconPath": "/images/树.png",
+        "selectedIconPath": "/images/花朵1.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "囡囡",
+        "iconPath": "/images/奶嘴.png",
+        "selectedIconPath": "/images/奶瓶.png"
+      }
+    ]
+  }
+}
